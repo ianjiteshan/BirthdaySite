@@ -1270,7 +1270,9 @@ audio {
 .message {
 	margin-top: 200px;
 	display: none;
+	text-align: center; /* Add this line */
 }
+
 .message p {
 	font-family: 'Signika', sans-serif;
 	font-size: 30px;
